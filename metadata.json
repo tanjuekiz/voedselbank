@@ -1,0 +1,6 @@
+{
+  "name": "Voedselbank Portal & Voorraadbeheer",
+  "description": "Integraal platform voor Voedselbanken met publieke homepage, gescheiden dashboards voor vrijwilligers, medewerkers en beheerders, halal & allergenenregistratie, QR-scanner, vervaldata tracking, offline lokale server en maandrapportage export.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
